@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sarah Meh Osay
+- 👋 Hi, I’m Sarah Osay
 - 👀 I’m interested in Web/Software Development
-- 🌱 I’m currently learning Java (SpringBoot) & VueJS
+- 🌱 I’m currently doing Java (SpringBoot) & VueJS implementation
 - 📫 How to reach me sarahmeh.osay@gmail.com
 
 <!---
